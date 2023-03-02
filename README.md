@@ -109,3 +109,7 @@ curl -v google.com.br
 - No HTTP/1.1 o Gzip não é nativo do protocolo, no HTTP/2 ele já vem por padrão.
 - No HTTP/2 o uso do HTTPS é obrigatório, no HTTP/1.1 não.
 - No HTTP/2 os dados são trafegados em binário, no HTTP/1.1 eles são trafegados como texto.
+
+**Como a tecnologia de Headers Stateful pode nos ajudar a economizar dados?**
+- Como trafegamos apenas os headers que mudam de uma requisição para outra, acabamos por economizar uma boa quantidade de dados, pois não precisamos enviar headers que mudam poucas vezes a todo momento, como o Accept.
+- Quando estamos utilizando Headers Stateful, simplesmente colocamos nas requisições os cabeçalhos que se alteraram entre uma e outra, trazendo uma enorme economia de dados, visto que toda requisição HTTP possui um cabeçalho e que, muitas vezes, no HTTP/1.1, cabeçalhos repetidos eram trafegados em todas as requisições.
