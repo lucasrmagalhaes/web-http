@@ -15,3 +15,6 @@ nslookup google.com
 
 **Como funciona o DNS?**
 - O DNS tem como função realizar a tradução do nome de um domínio para o endereço de IP correspondente.
+
+**Porta padrão HTTP**
+- 80
