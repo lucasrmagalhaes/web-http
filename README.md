@@ -1,5 +1,10 @@
 ### HTTP: Entendendo a web por baixo dos panos
 
+**HTTPS**
+- Web Segura
+- Certificado Digital (identidade)
+- Chaves (pública e privada)
+
 **Descobrir o IP**
 ```
 nslookup google.com
