@@ -113,3 +113,7 @@ curl -v google.com.br
 **Como a tecnologia de Headers Stateful pode nos ajudar a economizar dados?**
 - Como trafegamos apenas os headers que mudam de uma requisição para outra, acabamos por economizar uma boa quantidade de dados, pois não precisamos enviar headers que mudam poucas vezes a todo momento, como o Accept.
 - Quando estamos utilizando Headers Stateful, simplesmente colocamos nas requisições os cabeçalhos que se alteraram entre uma e outra, trazendo uma enorme economia de dados, visto que toda requisição HTTP possui um cabeçalho e que, muitas vezes, no HTTP/1.1, cabeçalhos repetidos eram trafegados em todas as requisições.
+
+**HTTP2 - Server Push**
+
+![HTTP2 - Server Push](https://s3.amazonaws.com/caelum-online-public/http/http2-push.png)
