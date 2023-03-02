@@ -44,4 +44,7 @@ Uma requisição sempre deve ser enviada com todas as informações necessárias
 
 Uma comunicação com HTTP sempre é iniciada pelo cliente que manda uma requisição ao servidor esperando por uma resposta.
 
-[Status Code](https://www.w3schools.com/tags/ref_httpmessages.asp)
+* [Status Code](https://www.w3schools.com/tags/ref_httpmessages.asp)
+* [HTTP STATUS DOGS](https://httpstatusdogs.com/)
+* [HTTP Cats](https://http.cat/)
+* [HTTP Status Codes Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)
