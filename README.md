@@ -73,4 +73,10 @@ Accept: */*
 ```
 
 **REST (Representational State Transfer - Transferência de Estado Representacional)**
+- É um padrão arquitetural para comunicações entre aplicações
+- Aproveita da estrutura que o HTTP proporciona
+- Recursos são definidos via URI
+- Operações com os métodos do HTTP (GET/POST/PUT/DELETE)
+- Cabeçalhos (Accept/Content-Type) para especificar a representação (JSON, XML, ...) 
+
 ![REST](https://s3.amazonaws.com/caelum-online-public/http/images/08/imagem2-cap8-rest-http.png)
