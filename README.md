@@ -71,3 +71,6 @@ Accept: text/html, Accept: text/css, Accept: application/xml, Accept: applicatio
 ```
 Accept: */*
 ```
+
+**REST (Representational State Transfer - Transferência de Estado Representacional)**
+![REST](https://s3.amazonaws.com/caelum-online-public/http/images/08/imagem2-cap8-rest-http.png)
