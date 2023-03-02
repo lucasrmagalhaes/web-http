@@ -97,3 +97,7 @@ curl -v google.com.br
 ![HPACK](https://s3.amazonaws.com/caelum-online-public/http/images/08/hpack.png)
 
 ![TLS](https://s3.amazonaws.com/caelum-online-public/http/images/08/tls.png)
+
+**Motivos por trás do HTTP/2**
+- Com o crescimento do número de dispositivos móveis conectados a Web, é cada vez mais importante que a quantidade de dados trafegada seja a menor possível, afinal este tipo de dispositivo não costuma ter uma conexão com muita banda larga. O protocolo HTTP/2 traz diversas tecnologias para diminuir o tamanho das requisições.
+- Por padrão, no protocolo HTTP versão 1.1 não é necessário o uso da camada de segurança TSL/SSL. Como hoje em dia trafegamos muitos dados críticos na Web, como senhas, logins e dados bancários, um protocolo atualizado que faz uso dessa segurança parece quase uma necessidade.
