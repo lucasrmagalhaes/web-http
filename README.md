@@ -48,3 +48,10 @@ Uma comunicação com HTTP sempre é iniciada pelo cliente que manda uma requisi
 * [HTTP STATUS DOGS](https://httpstatusdogs.com/)
 * [HTTP Cats](https://http.cat/)
 * [HTTP Status Codes Glossary](https://www.webfx.com/web-development/glossary/http-status-codes/)
+
+```
+200, 203, 207 -> Respostas de Sucesso
+300, 301, 302 -> Mensagem de redirecionamento
+401, 404, 405 -> Respostas de erro do cliente
+500, 502, 503 -> Respostas de erro do servidor
+```
