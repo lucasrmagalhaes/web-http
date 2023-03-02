@@ -55,3 +55,8 @@ Uma comunicação com HTTP sempre é iniciada pelo cliente que manda uma requisi
 401, 404, 405 -> Respostas de erro do cliente
 500, 502, 503 -> Respostas de erro do servidor
 ```
+
+**Sobre o HTTP**
+- Requisições HTTP podem ser enviadas através de qualquer aplicativo/software que entenda o protocolo.
+- HTTP é totalmente independente do formato dos dados.
+- HTTP pode trafegar tanto dados binários quanto dados textuais.
