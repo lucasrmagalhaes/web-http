@@ -37,3 +37,8 @@ nslookup google.com
 - As plataformas de desenvolvimento usam sessões para guardar informações entre requisições
 
 Uma requisição sempre deve ser enviada com todas as informações necessárias, o que faz uma requisição ser sempre independente das demais.
+
+**Sessão HTTP**
+- É o tempo que o cliente utiliza um web app.
+
+Uma sessão HTTP nada mais é que um tempo que o cliente permanece ativo no sistema! Isso é parecido com uma sessão no cinema. Uma sessão, nesse contexto, é o tempo que o cliente usa a sala no cinema para assistir a um filme. Quando você sai da sala, termina a sessão. Ou seja, quando você se desloga, a Alura termina a sua sessão.
