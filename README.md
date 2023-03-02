@@ -82,3 +82,18 @@ Accept: */*
 ![REST](https://s3.amazonaws.com/caelum-online-public/http/images/08/imagem2-cap8-rest-http.png)
 
 [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
+
+**HTTP2 - Dados binários, GZIP ativo e TLS**
+```
+curl -v google.com.br
+```
+
+![CURL - divisão](https://s3.amazonaws.com/caelum-online-public/http/images/08/curl.png)
+
+![GZIP](https://s3.amazonaws.com/caelum-online-public/http/images/08/gzip.png)
+
+![Binário](https://s3.amazonaws.com/caelum-online-public/http/images/08/binario.png)
+
+![HPACK](https://s3.amazonaws.com/caelum-online-public/http/images/08/hpack.png)
+
+![TLS](https://s3.amazonaws.com/caelum-online-public/http/images/08/tls.png)
