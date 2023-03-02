@@ -18,3 +18,11 @@ nslookup google.com
 
 **Porta padrão HTTP**
 - 80
+
+**Endereços**
+- URL são endereços da WEB
+- Uma URL começa com o protocolo (http://) seguido pelo domínio (www.alura.com.br)
+- Após o domínio é especificado o caminho para um recurso (course/introducao-html-css)
+- Um recurso é algo conectado que queremos acessar
+
+![URL](https://s3.amazonaws.com/caelum-online-public/http/http-url.png)
