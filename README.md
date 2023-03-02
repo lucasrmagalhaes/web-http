@@ -43,3 +43,5 @@ Uma requisição sempre deve ser enviada com todas as informações necessárias
 - Uma sessão HTTP nada mais é que um tempo que o cliente permanece ativo no sistema! Isso é parecido com uma sessão no cinema. Uma sessão, nesse contexto, é o tempo que o cliente usa a sala no cinema para assistir a um filme. Quando você sai da sala, termina a sessão. Ou seja, quando você se desloga, a Alura termina a sua sessão.
 
 Uma comunicação com HTTP sempre é iniciada pelo cliente que manda uma requisição ao servidor esperando por uma resposta.
+
+[Status Code](https://www.w3schools.com/tags/ref_httpmessages.asp)
