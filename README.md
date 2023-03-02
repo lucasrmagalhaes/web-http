@@ -29,3 +29,9 @@ nslookup google.com
 
 **smb**
 - Server Message Block. Ele é utilizado para compartilhar arquivos dentro de uma rede local.
+
+**HTTP (REQUEST-RESPONSE)**
+- O protocolo HTTP segue o modelo REQUISIÇÃO-RESPOSTA
+- Uma requisição precisa ter todas as informações para o servidor gerar a resposta
+- HTTP é STATELESS! (Não mantém informações entre requisições)
+- As plataformas de desenvolvimento usam sessões para guardar informações entre requisições
