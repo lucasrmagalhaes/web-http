@@ -35,3 +35,5 @@ nslookup google.com
 - Uma requisição precisa ter todas as informações para o servidor gerar a resposta
 - HTTP é STATELESS! (Não mantém informações entre requisições)
 - As plataformas de desenvolvimento usam sessões para guardar informações entre requisições
+
+Uma requisição sempre deve ser enviada com todas as informações necessárias, o que faz uma requisição ser sempre independente das demais.
