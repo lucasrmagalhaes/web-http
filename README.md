@@ -26,3 +26,6 @@ nslookup google.com
 - Um recurso é algo conectado que queremos acessar
 
 ![URL](https://s3.amazonaws.com/caelum-online-public/http/http-url.png)
+
+**smb**
+- Server Message Block. Ele é utilizado para compartilhar arquivos dentro de uma rede local.
