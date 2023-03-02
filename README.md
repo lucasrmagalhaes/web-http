@@ -60,3 +60,14 @@ Uma comunicação com HTTP sempre é iniciada pelo cliente que manda uma requisi
 - Requisições HTTP podem ser enviadas através de qualquer aplicativo/software que entenda o protocolo.
 - HTTP é totalmente independente do formato dos dados.
 - HTTP pode trafegar tanto dados binários quanto dados textuais.
+
+**Sobre o formato**
+- Pelo cabeçalho Accept.
+
+```
+Accept: text/html, Accept: text/css, Accept: application/xml, Accept: application/json, Accept:image/jpeg e Accept: image/*
+```
+
+```
+Accept: */*
+```
