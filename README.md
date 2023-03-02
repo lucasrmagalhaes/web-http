@@ -104,3 +104,8 @@ curl -v google.com.br
 
 **Para que serve a tecnologia HPACK implementada no protocolo HTTP/2 ?**
 - Para comprimir os Headers da comunicação HTTP, deixando-os mais leves.
+
+**Selecione as afirmativas verdadeiras sobre as versões 1.1 e 2.0 do protocolo HTTP:**
+- No HTTP/1.1 o Gzip não é nativo do protocolo, no HTTP/2 ele já vem por padrão.
+- No HTTP/2 o uso do HTTPS é obrigatório, no HTTP/1.1 não.
+- No HTTP/2 os dados são trafegados em binário, no HTTP/1.1 eles são trafegados como texto.
