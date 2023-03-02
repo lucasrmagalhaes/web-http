@@ -80,3 +80,5 @@ Accept: */*
 - Cabeçalhos (Accept/Content-Type) para especificar a representação (JSON, XML, ...) 
 
 ![REST](https://s3.amazonaws.com/caelum-online-public/http/images/08/imagem2-cap8-rest-http.png)
+
+[MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)
