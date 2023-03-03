@@ -118,3 +118,7 @@ curl -v google.com.br
 - O servidor pode empurrar para o clientes certos recursos antes mesmo de serem solicitados, pois ele consegue analisar o HTML e ver o que mais é preciso para carregar a página fazendo com que não seja necessário gastar tempo pedindo todos os outros recursos.
 
 ![HTTP2 - Server Push](https://s3.amazonaws.com/caelum-online-public/http/http2-push.png)
+
+**HTTP2 - Multiplexação**
+
+![Multiplexing](https://s3.amazonaws.com/caelum-online-public/http/images/08/keep-alive-http2.png)
