@@ -122,3 +122,11 @@ curl -v google.com.br
 **HTTP2 - Multiplexação**
 
 ![Multiplexing](https://s3.amazonaws.com/caelum-online-public/http/images/08/keep-alive-http2.png)
+
+**HTTP/2**
+- Atua sobre o que já se conhece de HTTP
+- Headers binários e comprimidos (HPACK)
+- GZIP padrão na resposta
+- Multiplexing (requisição e respostas são paralelas)
+- Headers Stateful (mandamos apenas os cabeçalhos que mudam)
+- Server-Push
